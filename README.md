@@ -1,1 +1,2 @@
-# Movie_Explorer
+# MovieExplorer
+ A basic movie search app
